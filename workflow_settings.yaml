@@ -1,0 +1,5 @@
+defaultProject: splendid-sector-327407
+defaultLocation: asia-southeast1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0-beta.4
